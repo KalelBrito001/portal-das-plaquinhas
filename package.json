@@ -1,0 +1,9 @@
+{
+  "name": "portal-das-plaquinhas",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Site + Netlify Function para checkout com cartão via Stripe.",
+  "dependencies": {
+    "stripe": "^17.0.0"
+  }
+}
